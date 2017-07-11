@@ -15,6 +15,17 @@
 		E75A72DA1F13EC3A009956E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E75A72D81F13EC3A009956E7 /* Main.storyboard */; };
 		E75A72DC1F13EC3A009956E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E75A72DB1F13EC3A009956E7 /* Assets.xcassets */; };
 		E75A72DF1F13EC3A009956E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E75A72DD1F13EC3A009956E7 /* LaunchScreen.storyboard */; };
+		E75A72E81F13EC8D009956E7 /* Glow.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72E71F13EC8D009956E7 /* Glow.sks */; };
+		E75A72F31F13ECA9009956E7 /* DirtExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72E91F13ECA8009956E7 /* DirtExplosion.sks */; };
+		E75A72F41F13ECA9009956E7 /* UnitSelection.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72EA1F13ECA8009956E7 /* UnitSelection.sks */; };
+		E75A72F51F13ECA9009956E7 /* Dust.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72EB1F13ECA8009956E7 /* Dust.sks */; };
+		E75A72F61F13ECA9009956E7 /* Sunbeams.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72EC1F13ECA9009956E7 /* Sunbeams.sks */; };
+		E75A72F71F13ECA9009956E7 /* SquadSelection.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72ED1F13ECA9009956E7 /* SquadSelection.sks */; };
+		E75A72F81F13ECA9009956E7 /* Dirt.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72EE1F13ECA9009956E7 /* Dirt.sks */; };
+		E75A72F91F13ECA9009956E7 /* HasteSpell.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72EF1F13ECA9009956E7 /* HasteSpell.sks */; };
+		E75A72FA1F13ECA9009956E7 /* Heal.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72F01F13ECA9009956E7 /* Heal.sks */; };
+		E75A72FB1F13ECA9009956E7 /* Smoke.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72F11F13ECA9009956E7 /* Smoke.sks */; };
+		E75A72FC1F13ECA9009956E7 /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = E75A72F21F13ECA9009956E7 /* Fire.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +39,17 @@
 		E75A72DB1F13EC3A009956E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E75A72DE1F13EC3A009956E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E75A72E01F13EC3A009956E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E75A72E71F13EC8D009956E7 /* Glow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Glow.sks; sourceTree = "<group>"; };
+		E75A72E91F13ECA8009956E7 /* DirtExplosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = DirtExplosion.sks; path = ../Barric/DirtExplosion.sks; sourceTree = "<group>"; };
+		E75A72EA1F13ECA8009956E7 /* UnitSelection.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = UnitSelection.sks; path = ../Barric/UnitSelection.sks; sourceTree = "<group>"; };
+		E75A72EB1F13ECA8009956E7 /* Dust.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Dust.sks; path = ../Barric/Dust.sks; sourceTree = "<group>"; };
+		E75A72EC1F13ECA9009956E7 /* Sunbeams.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Sunbeams.sks; path = ../Barric/Sunbeams.sks; sourceTree = "<group>"; };
+		E75A72ED1F13ECA9009956E7 /* SquadSelection.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = SquadSelection.sks; path = ../Barric/SquadSelection.sks; sourceTree = "<group>"; };
+		E75A72EE1F13ECA9009956E7 /* Dirt.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Dirt.sks; path = ../Barric/Dirt.sks; sourceTree = "<group>"; };
+		E75A72EF1F13ECA9009956E7 /* HasteSpell.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = HasteSpell.sks; path = ../Barric/HasteSpell.sks; sourceTree = "<group>"; };
+		E75A72F01F13ECA9009956E7 /* Heal.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Heal.sks; path = ../Barric/Heal.sks; sourceTree = "<group>"; };
+		E75A72F11F13ECA9009956E7 /* Smoke.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Smoke.sks; path = ../Barric/Smoke.sks; sourceTree = "<group>"; };
+		E75A72F21F13ECA9009956E7 /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = Fire.sks; path = ../Barric/Fire.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +66,7 @@
 		E75A72C21F13EC3A009956E7 = {
 			isa = PBXGroup;
 			children = (
+				E75A72E61F13EC42009956E7 /* Particles */,
 				E75A72CD1F13EC3A009956E7 /* Particle Playground */,
 				E75A72CC1F13EC3A009956E7 /* Products */,
 			);
@@ -66,11 +89,29 @@
 				E75A72D41F13EC3A009956E7 /* GameScene.swift */,
 				E75A72D61F13EC3A009956E7 /* GameViewController.swift */,
 				E75A72D81F13EC3A009956E7 /* Main.storyboard */,
-				E75A72DB1F13EC3A009956E7 /* Assets.xcassets */,
 				E75A72DD1F13EC3A009956E7 /* LaunchScreen.storyboard */,
 				E75A72E01F13EC3A009956E7 /* Info.plist */,
 			);
 			path = "Particle Playground";
+			sourceTree = "<group>";
+		};
+		E75A72E61F13EC42009956E7 /* Particles */ = {
+			isa = PBXGroup;
+			children = (
+				E75A72DB1F13EC3A009956E7 /* Assets.xcassets */,
+				E75A72E71F13EC8D009956E7 /* Glow.sks */,
+				E75A72F01F13ECA9009956E7 /* Heal.sks */,
+				E75A72EC1F13ECA9009956E7 /* Sunbeams.sks */,
+				E75A72EB1F13ECA8009956E7 /* Dust.sks */,
+				E75A72ED1F13ECA9009956E7 /* SquadSelection.sks */,
+				E75A72EA1F13ECA8009956E7 /* UnitSelection.sks */,
+				E75A72EF1F13ECA9009956E7 /* HasteSpell.sks */,
+				E75A72F21F13ECA9009956E7 /* Fire.sks */,
+				E75A72F11F13ECA9009956E7 /* Smoke.sks */,
+				E75A72EE1F13ECA9009956E7 /* Dirt.sks */,
+				E75A72E91F13ECA8009956E7 /* DirtExplosion.sks */,
+			);
+			name = Particles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,10 +172,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E75A72F71F13ECA9009956E7 /* SquadSelection.sks in Resources */,
+				E75A72FA1F13ECA9009956E7 /* Heal.sks in Resources */,
+				E75A72F51F13ECA9009956E7 /* Dust.sks in Resources */,
+				E75A72E81F13EC8D009956E7 /* Glow.sks in Resources */,
 				E75A72DA1F13EC3A009956E7 /* Main.storyboard in Resources */,
+				E75A72F61F13ECA9009956E7 /* Sunbeams.sks in Resources */,
 				E75A72D11F13EC3A009956E7 /* GameScene.sks in Resources */,
+				E75A72F81F13ECA9009956E7 /* Dirt.sks in Resources */,
+				E75A72FB1F13ECA9009956E7 /* Smoke.sks in Resources */,
 				E75A72DC1F13EC3A009956E7 /* Assets.xcassets in Resources */,
 				E75A72DF1F13EC3A009956E7 /* LaunchScreen.storyboard in Resources */,
+				E75A72F31F13ECA9009956E7 /* DirtExplosion.sks in Resources */,
+				E75A72F91F13ECA9009956E7 /* HasteSpell.sks in Resources */,
+				E75A72FC1F13ECA9009956E7 /* Fire.sks in Resources */,
+				E75A72F41F13ECA9009956E7 /* UnitSelection.sks in Resources */,
 				E75A72D31F13EC3A009956E7 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
